@@ -24,7 +24,7 @@
 # Log:
 #   C:\Temp\Logs\AAD-JoinError.log
 #
-#NOTES
+# NOTES
 #    FileName:    RemediateDeviceJoin.ps1
 #    Author:      Arne P Groenmo
 #    Created:     2026-10-05
