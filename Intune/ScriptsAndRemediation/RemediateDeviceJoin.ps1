@@ -24,6 +24,12 @@
 # Log:
 #   C:\Temp\Logs\AAD-JoinError.log
 #
+#NOTES
+#    FileName:    RemediateDeviceJoin.ps1
+#    Author:      Arne P Groenmo
+#    Created:     2026-10-05
+#    Updated:     
+#
 # ============================================================
 
 $LogPath = "C:\Temp\Logs\AAD-JoinError.log"

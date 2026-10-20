@@ -11,6 +11,13 @@
 #
 # Log:
 #   C:\Temp\Logs\AAD-JoinError.log
+#
+# NOTES
+#    FileName:    DetectDeviceJoin.ps1
+#    Author:      Arne P Groenmo
+#    Created:     2026-10-02
+#    Updated:     
+#
 # ============================================================
 
 $LogPath = "C:\Temp\Logs\AAD-JoinError.log"
